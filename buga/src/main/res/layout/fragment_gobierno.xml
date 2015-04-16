@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/inicio"
+    tools:context="co.com.buga.buga.Componentes$Marcador"
+    android:padding="0px">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imagen"
+        android:layout_below="@+id/section_label"
+        android:background="@drawable/bg_gobierno"
+        />
+</RelativeLayout>

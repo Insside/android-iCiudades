@@ -1,0 +1,19 @@
+<resources>
+    <color name="black_overlay">#243C6D</color>
+    <color name="ui_fondo_claro">#3B5998</color>
+    <color name="ui_fondo_oscuro">#243C6D</color>
+    <color name="ui_list_divider">#3C4353</color>
+    <color name="ui_list_background">#313848</color>
+    <color name="ui_list_actualidad_background">#f2f2f2</color>
+    <color name="ui_list_actualidad_divider">#cccccc</color>
+    <color name="ui_list_actualidad_textColor">#000000</color>
+    <color name="ui_list_actualidad_shadowColor">#cccccc</color>
+
+    <color name="white">#ffffff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+</resources>

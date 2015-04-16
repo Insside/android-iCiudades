@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Buga</string>
+    <string name="dummy_button">Continuar</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu">Guadalajara de Buga</string>
+    <string name="navigation_drawer_open">Ampliar</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="action_example">Preferencias</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_componentes">Buga</string>
+
+    <string-array name="titulos">
+        <item>Actualidad</item>
+        <item>Cultura</item>
+        <item>Turismo</item>
+        <item>Comercio</item>
+        <item>Gobierno</item>
+        <item>Mapas</item>
+        <item>Directorio</item>
+        <item>Utilidades</item>
+        <item>Perfil</item>
+        <item>Configuración</item>
+    </string-array>
+    <string-array name="descripciones">
+        <item>Noticias | Eventos </item>
+        <item>Historia | Patrimonio</item>
+        <item>Lugares | Hoteles</item>
+        <item>Negocios | Empresas</item>
+        <item>Alcaldia | Concejo </item>
+        <item>Geolocalización | Recorridos</item>
+        <item>Guía Telefónica</item>
+        <item>Herramientas</item>
+        <item>Datos Personales</item>
+        <item>Preferencias</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Buga</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_student_detail">activity_student_detail</string>
+    <string name="some_text">Algunos Paises!</string>
+    <string name="some_hint">Buscar&#8230;</string>
+    <!-- Cadenas Originales -->
+    <string name="buscar">Buscar: </string>
+    <string name="codigo">Código: </string>
+    <string name="nombre">Nombre Completo: </string>
+    <string name="nombres">Nombres: </string>
+    <string name="apellidos">Apellidos: </string>
+    <string name="direccion">Dirección: </string>
+    <string name="telefonos">Teléfonos: </string>
+    <string name="email">Correo Electrónico: </string>
+    <string name="informacion">Información: </string>
+    <string name="titulo">Titulo:</string>
+    <string name="resumen">resumen</string>
+</resources>
